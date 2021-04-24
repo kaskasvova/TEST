@@ -8,7 +8,7 @@ h1,h2 {color: gray; } /* цвет заголовков*/
       h2 {text-decoration: underline; font-family:Comic-Sans, cursive; font-size: 1.2em;} /* подчеркивание тескта в заголовках h2 */
             p {color: maroon;} /* цвет текст в элементах <p> */
 em {font-family: serif;} /* шрифт в элементах em */
-p.whitetx {color: dimgray;}
+p.whitetx {color: aqua;}
 p.greenwood {color: green;}
 p.redwood {color:red; }
 p.bluewood {color:fuchsia;}
