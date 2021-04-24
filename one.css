@@ -9,7 +9,7 @@ h1,h2 {color: gray; } /* цвет заголовков*/
 em {font-family: serif;} /* шрифт в элементах em */
 p.whitetx {color: silver;}
 p.greenwood {color: green;}
-p.redwood {color:red; font-family:LAST-NINJA? fantasy;}
+p.redwood {color:red; font-family:LAST-NINJA, fantasy;}
 p.bluewood {color:fuchsia;}
 p.limewood {color:chartreuse;
-font-family:LAST-NINJA? fantasy;}
+font-family:LAST-NINJA, fantasy;}
