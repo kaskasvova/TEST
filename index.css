@@ -1,6 +1,6 @@
-body {font-family: sans-serif;}
-h1,h2 {color: gray;}
-      h1 {border-bottom: 1px solid black;}
-      h2 {text-decoration: underline;}
-            p {color: maroon;}
-em {font-family: serif;}
+body {font-family: sans-serif;} /* основной шрифт страницы */
+h1,h2 {color: gray;} /* цвет заголовков*/
+      h1 {border-bottom: 1px solid black;} /*подчеркивание главноно заголовка по всей странице */
+      h2 {text-decoration: underline;} /* подчеркивание тескта в заголовках h2 */
+            p {color: maroon;} /* цвет текст в элементах <p> */
+em {font-family: serif;} /* шрифт в элементах em */
