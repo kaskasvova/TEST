@@ -1,4 +1,5 @@
 body {font-family: sans-serif;} /* основной шрифт страницы */
+body {background-color: #eaf3da;}
 h1,h2 {color: gray;} /* цвет заголовков*/
       h1 {border-bottom: 1px solid black;} /*подчеркивание главноно заголовка по всей странице */
       h2 {text-decoration: underline;} /* подчеркивание тескта в заголовках h2 */
