@@ -11,4 +11,5 @@ p.whitetx {color: silver;}
 p.greenwood {color: green;}
 p.redwood {color:red;}
 p.bluewood {color:fuchsia;}
-p.limewood {color:chartreuse;}
+p.limewood {color:chartreuse;
+font-family:last-ninja;}
