@@ -5,3 +5,4 @@ h1,h2 {color: gray;} /* цвет заголовков*/
             p {color: maroon;} /* цвет текст в элементах <p> */
 em {font-family: serif;} /* шрифт в элементах em */
 p.whitetx {color: silver;}
+p.greenwood {color: green;}
