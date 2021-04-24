@@ -2,9 +2,9 @@ body {
       background: #eaf3da;
       font-family: sans-serif; 
      } /* основной шрифт страницы */
-h1,h2 {color: gray;} /* цвет заголовков*/
+h1,h2 {color: gray; } /* цвет заголовков*/
       h1 {border-bottom: 1px solid black;} /*подчеркивание главноно заголовка по всей странице */
-      h2 {text-decoration: underline;} /* подчеркивание тескта в заголовках h2 */
+      h2 {text-decoration: underline; font-family:comic-sans;} /* подчеркивание тескта в заголовках h2 */
             p {color: maroon;} /* цвет текст в элементах <p> */
 em {font-family: serif;} /* шрифт в элементах em */
 p.whitetx {color: silver;}
