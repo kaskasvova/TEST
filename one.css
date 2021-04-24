@@ -1,6 +1,6 @@
 body {
       background: #eaf3da;
-      font-family: sans-serif; 
+      font-family: Verdana, Geneva, Arial, sans-serif; 
      } /* основной шрифт страницы */
 h1,h2 {color: gray; } /* цвет заголовков*/
       h1 {border-bottom: 1px solid black;} /*подчеркивание главноно заголовка по всей странице */
@@ -9,7 +9,7 @@ h1,h2 {color: gray; } /* цвет заголовков*/
 em {font-family: serif;} /* шрифт в элементах em */
 p.whitetx {color: silver;}
 p.greenwood {color: green;}
-p.redwood {color:red; font-family:LAST-NINJA, fantasy;}
+p.redwood {color:red; }
 p.bluewood {color:fuchsia;}
 p.limewood {color:chartreuse;
-font-family:LAST-NINJA, fantasy;}
+}
