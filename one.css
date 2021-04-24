@@ -1,8 +1,9 @@
 body {
       background: #eaf3da;
       font-family: Verdana, Geneva, Arial, sans-serif; 
-     } /* основной шрифт страницы */
-h1,h2 {color: gray; } /* цвет заголовков*/
+font-size: 14px;     
+} /* основной шрифт страницы */
+h1,h2 {color: gray; font-size: 150%; } /* цвет заголовков*/
       h1 {border-bottom: 1px solid black;} /*подчеркивание главноно заголовка по всей странице */
       h2 {text-decoration: underline; font-family:Comic-Sans, cursive;} /* подчеркивание тескта в заголовках h2 */
             p {color: maroon;} /* цвет текст в элементах <p> */
