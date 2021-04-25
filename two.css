@@ -18,7 +18,7 @@ h2 {
    font-size: 1.9em;/*размер шрифта*/
    color: #444444; /*цвет шрифта*/
    font-style: italic;/*наклон шрифта*/
-   border-color: #eaf3da; /*цвет границы черный*/
+   border-color: #eaf3da; /*цвет границы*/
    border-width: thick; /*ширина линии 1px-6px пикселя, thin, medium, thick*/
    border-style: dashed;/*solid-сплошная линия, dotted-последовательность точек, double-двойнаяа линия
    dashed-штрихи, groove-углубление, inset-вдавленая, outset-выходящая из стрaницы, ridge-выступающая кромка*/
