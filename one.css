@@ -2,7 +2,7 @@ body {
       background-color: #eaf3da; /* фон страницы */
       font-family: Verdana, Geneva, Arial, sans-serif; /* основной шрифт страницы */
 font-size: small; /* размер шрифта */  } 
-h1,h2 {color: gray; /* цвет заголовков*/ font-weight: normal;/* толщина шрифта, возможна bold, lighter, bolder, или же значение 100-900 */ font-style: italic; /* наклон шрифта oblique*/} 
+h1,h2 {color: #cc6600; /* цвет заголовков*/ text-decoration: underline; font-weight: normal;/* толщина шрифта, возможна bold, lighter, bolder, или же значение 100-900 */ font-style: italic; /* наклон шрифта oblique*/} 
       h1 {border-bottom: 1px solid black; font-size: 170%; } /*подчеркивание главноно заголовка по всей странице */
       h2 {text-decoration: underline; font-family:Comic-Sans, cursive; font-size: 130%;} /* подчеркивание тескта в заголовках h2 */
             p {color: maroon;} /* цвет текст в элементах <p> */
