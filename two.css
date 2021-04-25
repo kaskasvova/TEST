@@ -18,4 +18,5 @@ h2 {
    border-width: 1px; /*ширина линии 2 пикселя*/
    border-style: solid;/*сплошная линия*/
    background-color: #a7cece;/*фоновый цвет квадрата*/
+   padding: 25px;
 }
