@@ -14,15 +14,15 @@ h2 {
   font-size: 130%;
 }
 .guarantee {
-   font-family: Georgia, Times New Roman, Times, serif;
-   font-size: 1.9em;
-   color: #444444;
-   font-style: italic;
+   font-family: Georgia, "Times New Roman", Times, serif;/*стиль шрифта*/
+   font-size: 1.9em;/*размер шрифта*/
+   color: #444444; /*цвет шрифта*/
+   font-style: italic;/*наклон шрифта*/
    border-color: black; /*цыет границы черный*/
    border-width: 1px; /*ширина линии 2 пикселя*/
    border-style: solid;/*сплошная линия*/
    background-color: #a7cece;/*фоновый цвет квадрата*/
-   padding: 25px;
-   margin: 30px;
-    line-height: 150%;
+   padding: 25px;/*отступы со всех сторон 25пикселов*/
+   margin: 30px;/*поля со всех сторон 30*/
+    line-height: 150%; /*интервал межстрочный шрифта*/
 }
