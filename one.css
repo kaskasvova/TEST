@@ -1,10 +1,10 @@
 body {
       background: #eaf3da; /* фон страницы */
       font-family: Verdana, Geneva, Arial, sans-serif; /* основной шрифт страницы */
-font-size: large; /* размер шрифта */  } 
+font-size: small; /* размер шрифта */  } 
 h1,h2 {color: gray; } /* цвет заголовков*/
-      h1 {border-bottom: 1px solid black; font-size: 150%; } /*подчеркивание главноно заголовка по всей странице */
-      h2 {text-decoration: underline; font-family:Comic-Sans, cursive; font-size: 120%;} /* подчеркивание тескта в заголовках h2 */
+      h1 {border-bottom: 1px solid black; font-size: 170%; } /*подчеркивание главноно заголовка по всей странице */
+      h2 {text-decoration: underline; font-family:Comic-Sans, cursive; font-size: 130%;} /* подчеркивание тескта в заголовках h2 */
             p {color: maroon;} /* цвет текст в элементах <p> */
 em {font-family: serif;} /* шрифт в элементах em */
 p.whitetx {color: aqua;} /* цвет класса whitetx */
