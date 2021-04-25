@@ -1,7 +1,7 @@
 body {
       background: #eaf3da; /* фон страницы */
       font-family: Verdana, Geneva, Arial, sans-serif; /* основной шрифт страницы */
-font-size: small; /* размер шрифта */  } 
+font-size: large; /* размер шрифта */  } 
 h1,h2 {color: gray; } /* цвет заголовков*/
       h1 {border-bottom: 1px solid black; font-size: 150%; } /*подчеркивание главноно заголовка по всей странице */
       h2 {text-decoration: underline; font-family:Comic-Sans, cursive; font-size: 120%;} /* подчеркивание тескта в заголовках h2 */
