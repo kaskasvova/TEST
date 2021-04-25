@@ -25,4 +25,5 @@ h2 {
    padding: 25px;/*отступы со всех сторон 25пикселов*/
    margin: 30px;/*поля со всех сторон 30*/
     line-height: 150%; /*интервал межстрочный шрифта*/
+   background-image: url(image/zvezda5.png);
 }
