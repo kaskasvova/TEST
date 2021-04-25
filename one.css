@@ -9,7 +9,7 @@ h1,h2 {color: #cc6600; /* цвет заголовков*/
       font-style: italic; /* наклон шрифта oblique*/} 
       h1 {
             border-color: #0000FF;
-            border-bottom: 1px solid black;  /*подчеркивание главноно заголовка по всей странице */
+            /*border-bottom: 1px solid black;  /*подчеркивание главноно заголовка по всей странице */
             font-size: 170%; }  /*размер шрифта h1*/
       h2 {
             text-decoration: underline; /* подчеркивание тескта в заголовках h2 */
