@@ -1,5 +1,5 @@
 body {
-      background: #eaf3da; /* фон страницы */
+      background-color: #eaf3da; /* фон страницы */
       font-family: Verdana, Geneva, Arial, sans-serif; /* основной шрифт страницы */
 font-size: small; /* размер шрифта */  } 
 h1,h2 {color: gray; /* цвет заголовков*/ font-weight: normal;/* толщина шрифта, возможна bold, lighter, bolder, или же значение 100-900 */ font-style: italic; /* наклон шрифта oblique*/} 
