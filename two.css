@@ -18,8 +18,8 @@ h2 {
    font-size: 1.9em;/*размер шрифта*/
    color: #444444; /*цвет шрифта*/
    font-style: italic;/*наклон шрифта*/
-   border-color: black; /*цыет границы черный*/
-   border-width: 1px; /*ширина линии 2 пикселя*/
+   border-color: red; /*цвет границы черный*/
+   border-width: thick; /*ширина линии 1px-6px пикселя, thin, medium, thick*/
    border-style: double;/*solid-сплошная линия, dotted-последовательность точек, double-двойнаяа линия
    dashed-штрихи, groove-углубление, inset-вдавленая, outset-выходящая из стрaницы, ridge-выступающая кромка*/
    background-color: #a7cece;/*фоновый цвет квадрата*/
