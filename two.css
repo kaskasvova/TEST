@@ -25,5 +25,7 @@ h2 {
    padding: 25px;/*отступы со всех сторон 25пикселов*/
    margin: 30px;/*поля со всех сторон 30*/
     line-height: 150%; /*интервал межстрочный шрифта*/
-   background-image: url(image/zvezda2.gif);
+   background-image: url(image/zvezda2.gif);/*фоновая картинка*/
+   background-repeat: no-repeat; /*без повторений  картинка*/
+   background-position: top left; /*позиция картинки вверху слева*/
 }
