@@ -14,8 +14,8 @@ h2 {
   font-size: 130%;
 }
 .guarantee {
-   border-color: black;
-   border-width: 1px;
-   border-style: solid;
-   background-color: #a7cece;
+   border-color: black; /*цыет границы черный*/
+   border-width: 1px; /*ширина линии 2 пикселя*/
+   border-style: solid;/*сплошная линия*/
+   background-color: #a7cece;/*фоновый цвет квадрата*/
 }
