@@ -23,8 +23,9 @@ h2 {
    border-style: solid;/*сплошная линия*/
    background-color: #a7cece;/*фоновый цвет квадрата*/
    padding: 25px;/*отступы со всех сторон 25пикселов*/
+   padding-left: 80px;
    margin: 30px;/*поля со всех сторон 30*/
-    line-height: 150%; /*интервал межстрочный шрифта*/
+   line-height: 150%; /*интервал межстрочный шрифта*/
    background-image: url(image/zvezda2.gif);/*фоновая картинка*/
    background-repeat: no-repeat; /*без повторений  картинка no-repeat, repeat-x повтор по горизонталиб repeat-y по вертикали, inherit-делает то же самое что и родительский элемент*/
    background-position: top left; /*позиция картинки вверху слева top,left,right,bottom,center*/
