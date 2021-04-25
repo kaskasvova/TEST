@@ -13,3 +13,4 @@ p.redwood {color:red; } /* цвет класса */
 p.bluewood {color:fuchsia;} /* цвет класса */
 p.limewood {color:chartreuse; /* цвет класса */
 }
+blockquote {font-style:italic;}
