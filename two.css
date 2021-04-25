@@ -20,7 +20,8 @@ h2 {
    font-style: italic;/*наклон шрифта*/
    border-color: black; /*цыет границы черный*/
    border-width: 1px; /*ширина линии 2 пикселя*/
-   border-style: solid;/*сплошная линия*/
+   border-style: groove;/*solid-сплошная линия, dotted-последовательность точек, double-двойнаяа линия
+   dashed-штрихи, groove-углубление, inset-вдавленая, outset-выходящая из стрaницы, ridge-выступающая кромка*/
    background-color: #a7cece;/*фоновый цвет квадрата*/
    padding: 25px;/*отступы со всех сторон 25пикселов*/
    padding-left: 90px;/*отступ слева для картинки*/
