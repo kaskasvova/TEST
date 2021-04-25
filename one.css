@@ -1,6 +1,7 @@
 body {
       background-color: #eaf3da; /* фон страницы */
-      font-family: Verdana, Geneva, Arial, sans-serif; /* основной шрифт страницы */
+      font-family: Verdana, Geneva, Arial, sans-serif; /* основной шрифт страницы */ /*Семейства шрифтов, nрименяемые в Сети,- это serif,
+sans-serif, monospace, cursive и fantasy */
 font-size: small; /* размер шрифта всей страницы */  } 
 h1,h2 {color: #cc6600; /* цвет заголовков*/ 
      border-bottom: thin botted #888888; /* нижняя граница*/
