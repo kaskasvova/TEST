@@ -9,7 +9,7 @@ h1,h2 {color: gray; /* цвет заголовков*/ font-weight: normal;/* т
 em {font-family: serif;} /* шрифт в элементах em */
 p.whitetx {color: aqua;} /* цвет класса whitetx */
 p.greenwood {color: green;} /* цвет класса */
-p.redwood {color:red; background-color:rgb (80%, 40%, 0%);} /* цвет класса */
+p.redwood {color:red; background-color:#cc6600;} /* цвет класса */
 p.bluewood {color:fuchsia;} /* цвет класса */
 p.limewood {color:chartreuse; /* цвет класса */
 }
