@@ -14,6 +14,10 @@ h2 {
   font-size: 130%;
 }
 .guarantee {
+   font-family: Georgia, Times New Roman, Times, serif;
+   font-size: 1.9em;
+   color: #444444;
+   font-style: italic;
    border-color: black; /*цыет границы черный*/
    border-width: 1px; /*ширина линии 2 пикселя*/
    border-style: solid;/*сплошная линия*/
