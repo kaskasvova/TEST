@@ -19,4 +19,5 @@ h2 {
    border-style: solid;/*сплошная линия*/
    background-color: #a7cece;/*фоновый цвет квадрата*/
    padding: 25px;
+   margin: 30px;
 }
