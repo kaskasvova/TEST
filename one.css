@@ -3,7 +3,7 @@ body {
       font-family: Verdana, Geneva, Arial, sans-serif; /* основной шрифт страницы */
 font-size: small; /* размер шрифта всей страницы */  } 
 h1,h2 {color: #cc6600; /* цвет заголовков*/ 
-     border-bottom: thin botted #888888;
+     border-bottom: thin botted #888888; /* нижняя граница*/
       /*text-decoration: underline;  подчеркивание, line-through-перечерк, overline-линия сверху, none-нет ничего */
       font-weight: normal;/* толщина шрифта, возможна bold, lighter, bolder, или же значение 100-900 */ 
       font-style: italic; /* наклон шрифта oblique*/} 
