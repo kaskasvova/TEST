@@ -1,16 +1,26 @@
 body {
       background-color: #eaf3da; /* фон страницы */
       font-family: Verdana, Geneva, Arial, sans-serif; /* основной шрифт страницы */
-font-size: small; /* размер шрифта */  } 
-h1,h2 {color: #cc6600; /* цвет заголовков*/ text-decoration: underline; font-weight: normal;/* толщина шрифта, возможна bold, lighter, bolder, или же значение 100-900 */ font-style: italic; /* наклон шрифта oblique*/} 
-      h1 {border-bottom: 1px solid black; font-size: 170%; } /*подчеркивание главноно заголовка по всей странице */
-      h2 {text-decoration: underline; font-family:Comic-Sans, cursive; font-size: 130%;} /* подчеркивание тескта в заголовках h2 */
+font-size: small; /* размер шрифта всей страницы */  } 
+h1,h2 {color: #cc6600; /* цвет заголовков*/ 
+      text-decoration: underline; /* подчеркивание, line-through-перечерк, overline-линия сверху, none-нет ничего */
+      font-weight: normal;/* толщина шрифта, возможна bold, lighter, bolder, или же значение 100-900 */ 
+      font-style: italic; /* наклон шрифта oblique*/} 
+      h1 {
+            border-bottom: 1px solid black;  /*подчеркивание главноно заголовка по всей странице */
+            font-size: 170%; }  /*размер шрифта h1*/
+      h2 {
+            text-decoration: underline; /* подчеркивание тескта в заголовках h2 */
+            font-family:Comic-Sans, cursive; /* шрифт заголовков h2 */
+            font-size: 130%;} /* размер текста h2 */
             p {color: maroon;} /* цвет текст в элементах <p> */
 em {font-family: serif;} /* шрифт в элементах em */
 p.whitetx {color: aqua;} /* цвет класса whitetx */
 p.greenwood {color: green;} /* цвет класса */
-p.redwood {color:red; background-color:silver;} /* цвет класса */
+p.redwood {
+      color:red; /* цвет класса */
+      background-color:silver;} /* фон класса */
 p.bluewood {color:fuchsia;} /* цвет класса */
 p.limewood {color:chartreuse; /* цвет класса */
 }
-blockquote {font-style:italic;}
+blockquote {font-style:italic;}/* наклон текста */
