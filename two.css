@@ -32,3 +32,6 @@ h2 {
    background-repeat: no-repeat; /*без повторений  картинка no-repeat, repeat-x повтор по горизонталиб repeat-y по вертикали, inherit-делает то же самое что и родительский элемент*/
    background-position: top left; /*позиция картинки вверху слева top,left,right,bottom,center*/
 }
+#footer {
+   color: red
+}
